@@ -1,5 +1,4 @@
-# Resume  
-Rong Gao  
+# Rong Gao  
 gaor23@mail2.sysu.edu.cn  
 Master student, Sun Yat-sen University, China  
 ## Publishments:
